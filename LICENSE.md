@@ -1,4 +1,4 @@
-#  
+#  fish it Script stealth offers the most advanced fish it Script, with no cooldown and auto-heal. Perfect for dominating any match.
 
 
 
